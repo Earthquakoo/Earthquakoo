@@ -11,7 +11,7 @@
 
 
 #### 📞 Contact
-<a href="mailto:cream5343@gmail.com"><img src="https://img.shields.io/badge/jinwooji-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cream5343@gmail.com"/></a>
+***Email.*** [cream5343@gmai.com](cream5343@gmail.com) &nbsp;
 
 #### 🗃️ Projects
 - [Picktoss](https://www.picktoss.com) - 자신의 노트에서 퀴즈를 생성해주는 서비스
