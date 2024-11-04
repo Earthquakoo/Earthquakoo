@@ -10,13 +10,6 @@
 
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
-![image](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
-![image](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![image]()
-![image](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![image](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![image]()
-![image](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📞 Contact
 <a href="mailto:cream5343@gmail.com"><img src="https://img.shields.io/badge/jinwooji-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cream5343@gmail.com"/></a>
