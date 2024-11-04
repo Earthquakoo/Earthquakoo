@@ -11,7 +11,7 @@
 
 
 #### 📞 Contact
-***Email.*** [cream5343@gmai.com](cream5343@gmail.com) &nbsp;
+***Email.*** [cream5343@gmail.com](cream5343@gmail.com) &nbsp;
 
 #### 🗃️ Projects
 - [Picktoss](https://www.picktoss.com) - 자신의 노트에서 퀴즈를 생성해주는 서비스
