@@ -1,5 +1,12 @@
-### Hi there 👋
+### 백엔드 개발자 지진우입니다.
 
+#### Skills
+![image](https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![image](https://img.shields.io/badge/spring_batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![image](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <!--
 **Earthquakoo/Earthquakoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
