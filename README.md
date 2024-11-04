@@ -1,12 +1,19 @@
-### 백엔드 개발자 지진우입니다.
+### 백엔드 개발자 지진우입니다 👋
 
 #### Skills
-![image](https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![image](https://img.shields.io/badge/spring_batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![image](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![image](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![image](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Contact
+<a href="mailto:cream5343@gmail.com"><img src="https://img.shields.io/badge/changjinlee-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cream5343@gmail.com"/></a>
+
+#### Projects
+- [Picktoss](https://www.picktoss.com) - 자신의 노트에서 퀴즈를 생성해주는 서비스
+
 <!--
 **Earthquakoo/Earthquakoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
